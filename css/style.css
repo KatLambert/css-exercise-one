@@ -37,11 +37,15 @@ h3 {
   width: 100%;
 }
 
-div.feature {
-  background-color: green;
-}
+.feature {
+  background-color: blue;
+  height: 100px;
+  margin: 10px 0;
+  width: 100%;
+} /****This class gives the div a blue background****/
 
-  /* http://meyerweb.com/eric/tools/css/reset/
+/****The following will remove default styling in browers****/
+/* http://meyerweb.com/eric/tools/css/reset/
    v2.0 | 20110126
    License: none (public domain)
 */
